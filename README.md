@@ -10,4 +10,5 @@ We created a webpage for users to search through thousands of articles of UFO si
 
 ![UFO2](https://user-images.githubusercontent.com/75647359/109432357-5ae44580-79d0-11eb-936e-dc6ebb98ee8c.png)
 
-## Sumamry 
+## Summary
+One downside to the webpage is that it does not scrape new data of UFO sightings. This data comes from a source that has already compiled all UFO article sightings, if Dana wanted to scrape the web for any new sightings, she would need a way to add them on to her list of articles. Another addition the the webpage could be to add an additonal filter to see a range of sightings that happened within a month, so users can draw connections between the sightings. Another additon might be a comment box for others to submit their UFO sightings they may have had, but never knew anyone was interested in recording. 
